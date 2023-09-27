@@ -4,6 +4,14 @@ Revisa mis [repositorios](https://github.com/HauroEnojado?tab=repositories) si e
 
 <br/>  
 
+## Actividades Recientes
+
+### Roadmap.sh
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65145cfc2f8c6d847b15dedf?variant=dark&roadmaps=frontend%2Cjavascript)](https://roadmap.sh)
+
+
+
 ## Habilidades y tecnologias.
 Realice trabajos en grupo, colaboraciones en proyectos y recibi consultas durante mi formacion en el bootcamp de [SoyHenry](https://www.soyhenry.com/).
 Estoy constantemente actualizando mis conocimientos y reforzandolos para poder realizar correctamente mi trabajo. 
