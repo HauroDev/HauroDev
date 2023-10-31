@@ -60,4 +60,4 @@ Estoy constantemente actualizando mis conocimientos y reforzandolos para poder r
 <br/>  
 
 ## Estadisticas de GitHub  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HauroEnojado&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HauroDev&hide_border=true&layout=compact" align="center" /></div>  
